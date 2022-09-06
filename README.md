@@ -1,7 +1,11 @@
 # Python-Intermedio-UTNFRC-SEU
-Material Estudio del Curso Phyton Intermedio, dictado por la Secretaria de Extensión Universitaria, Universidad Tecnológica Nacional Facultad Regional Córdoba
 
 
+
+Ejercicio integrador 1
+
+Implementar todas las clases y métodos de acuerdo al siguiente diagrama de clases.
+Se solicita crear las clases, agregar los atributos correspondientes, teniendo en cuenta las relaciones de herencia
 
 
 
@@ -12,7 +16,7 @@ Definir los atributos y métodos mencionados en el modelo. Crear al menos 6 cuen
 
 Para las cuentas de tipo Plazo Fijo calcular los intereses, mostrarlos por pantalla y acreditarlos, mostrando el saldo actualizado. La clase Banco tiene una lista de cuentas, para la que vamos a utilizar la ya vista (en el nivel inicial) colección List. Es en esa lista en donde se van a agregar las cuentas creadas, utilizando su método append()
 
+-----
+[Tutorial] sobre Diagrama de clases UML (https://youtu.be/txxU2x5e3HM).
 
-Si no está al tanto de lo que un diagrama de clases modela, aquí hay un breve y muy claro [tutorial](https://youtu.be/txxU2x5e3HM).
-
-En caso de no recordar el funcionamiento de las listas, aquí hay un [tutorial](https://youtu.be/xdCJa2QXmJ8).
+[Tutorial] sobre funcionamiento de Listas (https://youtu.be/xdCJa2QXmJ8).
