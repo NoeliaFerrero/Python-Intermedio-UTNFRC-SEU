@@ -17,9 +17,7 @@ Definir los atributos y métodos mencionados en el modelo. Crear al menos 6 cuen
 
 Para las cuentas de tipo Plazo Fijo calcular los intereses, mostrarlos por pantalla y acreditarlos, mostrando el saldo actualizado. La clase Banco tiene una lista de cuentas, para la que vamos a utilizar la ya vista (en el nivel inicial) colección List. Es en esa lista en donde se van a agregar las cuentas creadas, utilizando su método append()
 
-<p align="center">
-  <img src="https://github.com/NoeliaFerrero/Python-Intermedio-UTNFRC-SEU/blob/main/Banner%20Diplodatos.png">
-</p>
+![Image text]( https://github.com/NoeliaFerrero/Python-Intermedio-UTNFRC-SEU/blob/main/ejerc-integrador2.png)
 
 -----
 [Tutorial](https://youtu.be/txxU2x5e3HM/) sobre Diagrama de clases UML.
