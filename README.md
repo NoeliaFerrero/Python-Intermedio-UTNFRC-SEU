@@ -7,7 +7,7 @@
 Implementar todas las clases y métodos de acuerdo al siguiente diagrama de clases.
 Se solicita crear las clases, agregar los atributos correspondientes, teniendo en cuenta las relaciones de herencia
 
-![Image text]( https://github.com/NoeliaFerrero/Python-Intermedio-UTNFRC-SEU/blob/main/ejerc integrador1.png)
+![Image text]( https://github.com/NoeliaFerrero/Python-Intermedio-UTNFRC-SEU/blob/main/ejerc-integrador1.png)
 
 ## Ejercicio integrador 2
 
