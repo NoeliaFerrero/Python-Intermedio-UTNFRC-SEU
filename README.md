@@ -8,7 +8,7 @@ Implementar todas las clases y métodos de acuerdo al siguiente diagrama de clas
 Se solicita crear las clases, agregar los atributos correspondientes, teniendo en cuenta las relaciones de herencia
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Python-Intermedio-UTNFRC-SEU/blob/main/Banner%20Diplodatos.png">
+  <img src="https://github.com/NoeliaFerrero/Python-Intermedio-UTNFRC-SEU/ejerc integrador1.png"> 
 </p>
 
 
