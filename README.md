@@ -24,4 +24,4 @@ Para las cuentas de tipo Plazo Fijo calcular los intereses, mostrarlos por panta
 
 [Tutorial](https://youtu.be/xdCJa2QXmJ8/) sobre funcionamiento de Listas.
 
-[SQLITE] (https://www.sqlite.org/index.html)
+[SQLITE](https://www.sqlite.org/index.html)
